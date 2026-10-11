@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dacia_Dokker"
+
+generations:
+  - name: "First Generation"
+    start_year: 2012
+    end_year: 2021
+    description: "A compact van and leisure activity vehicle on the Dacia Lodgy's M0 platform, with Renault gasoline, LPG and dCi diesel engines."
