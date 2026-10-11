@@ -1,0 +1,17 @@
+command_id: 743.763.220207|din=C0
+test_cases:
+- expected_values:
+    DOKKER_ODO_KM: 99791
+  response: 763066202070185CF
+- expected_values:
+    DOKKER_ODO_KM: 99839
+  response: 763066202070185FF
+- expected_values:
+    DOKKER_ODO_KM: 99840
+  response: '76306620207018600'
+- expected_values:
+    DOKKER_ODO_KM: 124943
+  response: 7630662020701E80F
+- expected_values:
+    DOKKER_ODO_KM: 131707
+  response: 7630662020702027B
